@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home</title>
+    <link>https://rownakk.github.io/</link>
+    <description>Recent content on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://rownakk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resources</title>
+      <link>https://rownakk.github.io/resources/</link>
+      <pubDate>Thu, 12 Aug 2021 22:01:21 +0530</pubDate>
+      
+      <guid>https://rownakk.github.io/resources/</guid>
+      <description>I am listing here a few of the resources that might be helpful in your research.
+Interested in learning Python and how observational data analysis are done in Cosmology ? Browse through the websites I collected over time. Here you can find contents for beginners to advance users as well. Few of them have hands-on session too and might be helpful in your research.
+ Python tutorials in Hindi. The full playlist in YouTube can be found here.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rownakk.github.io/contact/</link>
+      <pubDate>Thu, 12 Aug 2021 22:01:02 +0530</pubDate>
+      
+      <guid>https://rownakk.github.io/contact/</guid>
+      <description>Rownak Kundu
+Research Scholar
+Department of Mathematics
+Indian Institute of Engineering Science and Technology, Shibpur
+Howrah - 711103
+India</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://rownakk.github.io/research/</link>
+      <pubDate>Thu, 12 Aug 2021 22:00:14 +0530</pubDate>
+      
+      <guid>https://rownakk.github.io/research/</guid>
+      <description>At present I have been working on Gravitational Lensing. Some of my recent publications are listed below.
+PUBLICATIONS    </description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://rownakk.github.io/education/</link>
+      <pubDate>Thu, 12 Aug 2021 22:00:02 +0530</pubDate>
+      
+      <guid>https://rownakk.github.io/education/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://rownakk.github.io/about/</link>
+      <pubDate>Thu, 12 Aug 2021 21:59:43 +0530</pubDate>
+      
+      <guid>https://rownakk.github.io/about/</guid>
+      <description>Hi ! I am Rownak. Currently a PhD student in the Department of Mathematics, IIEST Shibpur. I have completed my Masters in Mathematics from Gauhati Unuversity and Bachelors from B Borooah College, Guwahati. I am interested in Cosmology and probing the dark sector of the Universe.
+At IIESTs I am working with Dr. Ujjal Debnath on Gravitational Lensing to understand the Dark Universe. Besides, I have been also interested in Observational Cosmology and very much plan to work on the same.</description>
+    </item>
+    
+  </channel>
+</rss>
